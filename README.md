@@ -1,5 +1,5 @@
 # Data-Visualization
-Data Visualization with Python by IBM [coursera](https://www.coursera.org/learn/python-for-data-visualization/home/welcome)
+Data Visualization with Python by IBM on [coursera](https://www.coursera.org/learn/python-for-data-visualization/home/welcome)
 
 Demos of (1) pie chat, (2) Cloudwords, (3) Regression Plots, (4) bubble plot
 by the following two notebooks: (a) Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots-py-v2.0.ipynb
