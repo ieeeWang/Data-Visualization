@@ -10,7 +10,7 @@ by the following two notebooks: (a) Pie-Charts-Box-Plots-Scatter-Plots-and-Bubbl
 <img src="images\regression1.png" width="400px" height="300px" />       <img src="images\bubbles.png" width="400px" height="300px" /> 
 
 
-Demos of Visualizations and Geospatial Data using [folium] (https://python-visualization.github.io/folium/).
+Demos of Visualizations and Geospatial Data using [folium](https://python-visualization.github.io/folium/).
 IPython Notebook available [here](./DS_visulization-Final-Assignment-2-Choropleth-Map.ipynb).
 
 <img src ="images\map.png" width="800px" height="400px" />
